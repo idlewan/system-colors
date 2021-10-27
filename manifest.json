@@ -5,12 +5,7 @@
   "homepage_url": "https://github.com/idlewan/system-colors",
   "version": "1",
   "description": "System Colors sidebar (for Firefox 57+)\nGoal of this extension: show the different system colors (and font sizes) that Firefox can pull through from the operating system theme.\nThis is intended to help develop Web Extensions that respect the use of colors already present on the user's machine, i.e. to blend with the users' custom themes.\n",
-  "icons": {
-    "48": "icon48.png",
-    "128": "icon128.png"
-  },
   "sidebar_action": {
-    "default_icon": "icon48.png",
     "default_title": "System Colors",
     "default_panel": "panel.html"
   }
